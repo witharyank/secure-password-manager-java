@@ -1,3 +1,0 @@
-network
-scan network
-decrypt file
